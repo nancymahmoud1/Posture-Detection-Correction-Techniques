@@ -12,6 +12,8 @@ According to the World Health Organization (WHO), musculoskeletal disorders are 
 - **Wearable Hardware Design**: 
   - Sensors positioned on critical zones (shoulders and spine).
   - Comfortable and user-friendly wearable base to be integrated in pcb.
+  - <img src="https://github.com/user-attachments/assets/6ff4a635-60b1-483b-b1a0-27293f217ad5" alt="image" width="350" height="400">
+
 - **Real-Time Posture Monitoring**:
   - IMUs track pitch and roll angles to detect posture misalignments.
   - Immediate vibrotactile feedback alerts users to maintain correct posture.
@@ -19,7 +21,6 @@ According to the World Health Organization (WHO), musculoskeletal disorders are 
   - User-friendly interface for tracking posture trends.
   - Personalized exercise recommendations with instructional videos.
   - Gamified features to encourage consistent usage.
-
 ---
 
 ## **System Components**
@@ -30,6 +31,7 @@ According to the World Health Organization (WHO), musculoskeletal disorders are 
 - **Feedback Mechanism**:
   - Vibration motor to notify users of posture deviations.
 - **Microcontrollers**: Two ESP32 units for IMU data processing and wireless communication.
+- <img src="https://github.com/user-attachments/assets/8bf8577a-60f7-4c8b-aeaf-d4cec705584c" alt="image" width="400" height="300">
 
 ### **Software**
 - **Postural Data Monitoring**:
@@ -38,7 +40,8 @@ According to the World Health Organization (WHO), musculoskeletal disorders are 
   - Suggests corrective exercises and provides educational videos.
 - **User Authentication**:
   - Enables personalized tracking and progress monitoring.
-
+  - <img src="https://github.com/user-attachments/assets/9f2bcc98-f1bc-4032-8695-bb3062f8b99a" alt="image" width="400" height="300">
+    <img src="https://github.com/user-attachments/assets/3b9079d1-5a65-4707-9351-9e6ee336646f" alt="image" width="400" height="300">
 ---
 
 ## **How It Works**
@@ -65,10 +68,19 @@ According to the World Health Organization (WHO), musculoskeletal disorders are 
 
 ## **Acknowledgments**
 Special thanks to **Dr. Aliaa Rehan** for her guidance and **Eng. Nouran Mostafa** for technical assistance. Their support was instrumental in the success of this project.
+I would also like to express my gratitude to my teammates:
+
+Nariman Ahmed
+Biatriss Benyamin
+Ayat Tarek
+Saif Mohammed
+
+for their hard work, dedication, and invaluable contributions throughout the development of this project.
 
 ---
 
 ## **Our Presentation**
+[Team4_Presentation.pptx](https://github.com/user-attachments/files/18545344/Team4_Presentation.pptx)
 
 
 ---
