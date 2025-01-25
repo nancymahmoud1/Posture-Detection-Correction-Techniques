@@ -41,7 +41,7 @@ According to the World Health Organization (WHO), musculoskeletal disorders are 
 - **User Authentication**:
   - Enables personalized tracking and progress monitoring.
   - <img src="https://github.com/user-attachments/assets/9f2bcc98-f1bc-4032-8695-bb3062f8b99a" alt="image" width="400" height="300">
-    <img src="https://github.com/user-attachments/assets/3b9079d1-5a65-4707-9351-9e6ee336646f" alt="image" width="400" height="300">
+  <img src="https://github.com/user-attachments/assets/3b9079d1-5a65-4707-9351-9e6ee336646f" alt="image" width="400" height="300">
 ---
 
 ## **How It Works**
