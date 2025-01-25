@@ -11,8 +11,8 @@ According to the World Health Organization (WHO), musculoskeletal disorders are 
 ## **Features**
 - **Wearable Hardware Design**: 
   - Sensors positioned on critical zones (shoulders and spine).
-  - Comfortable and user-friendly wearable base to be integrated in pcb.
-  - <img src="https://github.com/user-attachments/assets/6ff4a635-60b1-483b-b1a0-27293f217ad5" alt="image" width="350" height="400">
+  - Comfortable and user-friendly wearable base to be integrated in PCB.
+  - <img src="https://github.com/user-attachments/assets/6ff4a635-60b1-483b-b1a0-27293f217ad5" alt="image" width="350" height="450">
 
 - **Real-Time Posture Monitoring**:
   - IMUs track pitch and roll angles to detect posture misalignments.
@@ -68,19 +68,19 @@ According to the World Health Organization (WHO), musculoskeletal disorders are 
 
 ## **Acknowledgments**
 Special thanks to **Dr. Aliaa Rehan** for her guidance and **Eng. Nouran Mostafa** for technical assistance. Their support was instrumental in the success of this project.
-I would also like to express my gratitude to my teammates:
 
-Nariman Ahmed
-Biatriss Benyamin
-Ayat Tarek
-Saif Mohammed
+- I would also like to express my gratitude to my teammates:
+  - Nariman Ahmed
+  - Biatriss Benyamin
+  - Ayat Tarek
+  - Saif Mohammed
 
 for their hard work, dedication, and invaluable contributions throughout the development of this project.
 
 ---
 
 ## **Our Presentation**
-[Team4_Presentation.pptx](https://github.com/user-attachments/files/18545344/Team4_Presentation.pptx)
+[Team4_Presentation.pptx](https://github.com/user-attachments/files/18545541/Team4_Presentation.pptx)
 
 
 ---
