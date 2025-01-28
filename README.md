@@ -3,6 +3,10 @@
 ## **Overview**
 This project addresses the growing concern of musculoskeletal disorders caused by poor posture. It integrates **Inertial Measurement Units (IMUs)** with a **mobile application** to monitor and correct user posture in real-time, providing a cost-effective and accessible solution for posture-related health issues.
 
+
+https://github.com/user-attachments/assets/370d7a89-3d0a-404e-a8a3-ecb5452fe9b8
+
+
 ## **Motivation**
 According to the World Health Organization (WHO), musculoskeletal disorders are a leading contributor to disability worldwide, with poor posture being a significant risk factor. This system aims to reduce posture-related problems by combining real-time monitoring and personalized corrective feedback.
 
